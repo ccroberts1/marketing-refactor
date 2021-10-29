@@ -1,6 +1,6 @@
 # Marketing Refactor
 
-## 🧾Overview
+## Description
 
 This is a code refactoring project for a hypothetical marketing team named Horiseon. The user story indicated that the project needed to update the codebase so that it conformed to accessibility standards and aided in search engine optimization.
 
